@@ -1,0 +1,2 @@
+Орион: radius = 5
+ZALA: radius = 2 
